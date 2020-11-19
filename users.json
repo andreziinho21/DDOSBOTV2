@@ -1,0 +1,16 @@
+{
+  "587707846230016010": {
+    "concurrents": 2,
+    "attackTime": 1000,
+    "attacks": [],
+    "expire": 1614380159,
+    "servers": "Advanced"
+  },
+  "744975612036251659": {
+    "concurrents": 2,
+    "attackTime": 1000,
+    "attacks": [],
+    "expire": 1614380159,
+    "servers": "Advanced"
+  }
+}
